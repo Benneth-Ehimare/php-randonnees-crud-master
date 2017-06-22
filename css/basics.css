@@ -1,0 +1,13 @@
+select{
+  width: 310px;
+}
+label, input{
+  display: inline-block;
+  margin: 5px 0;
+}
+input{
+  width: 300px;
+}
+label{
+  width: 100px;
+}
